@@ -1,10 +1,1 @@
-Zmiana nr 1
-Zmiana nr 2
-Zmiana nr 3
-Zmiana nr 4
-test
-Zmiana 5
-Zmiana 6 z git
-Zmiana git branch bt2
-Ponowna zmiana na branch 2
-Zmiana branch bt1
+
