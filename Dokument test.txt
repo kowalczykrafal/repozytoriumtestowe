@@ -6,3 +6,4 @@ test
 Zmiana 5
 Zmiana 6 z git
 Zmiana git branch bt2
+Ponowna zmiana na branch 2
