@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Czysty
-=======
 Branch bt1
->>>>>>> bt1
