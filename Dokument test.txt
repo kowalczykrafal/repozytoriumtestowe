@@ -1,2 +1,3 @@
 Czysty
 Branch bt1
+Tekst brach bt2
