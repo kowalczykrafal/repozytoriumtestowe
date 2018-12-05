@@ -5,4 +5,8 @@ Zmiana nr 4
 test
 Zmiana 5
 Zmiana 6 z git
+
 Zmiana branch bt1
+
+Zmiana git branch bt2
+
