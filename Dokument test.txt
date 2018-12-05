@@ -4,3 +4,4 @@ Zmiana nr 3
 Zmiana nr 4
 test
 Zmiana 5
+Zmiana 6 z git
