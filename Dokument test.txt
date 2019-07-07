@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 Czysty
 Branch bt1
 Tekst brach bt2
 Dodja jeszcze jedna linie bo zapomnialem
 A dodam sobie jeszcze jedna
 
+=======
+Branch bt1
+Zmiana ER1 kolejna
+>>>>>>> ER-1
