@@ -1,4 +1,8 @@
 
 Branch bt1
 Zmiana ER1 kolejna
+<<<<<<< HEAD
 
+=======
+Zmiana ER1 kolejna 2
+>>>>>>> ER-1
