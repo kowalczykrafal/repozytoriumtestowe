@@ -1,1 +1,3 @@
 Czysty 1
+Czysty 2
+Czysty 3
