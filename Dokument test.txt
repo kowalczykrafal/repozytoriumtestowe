@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Czysty
+=======
+
+Branch bt1
+Zmiana ER1 kolejna 2
+Zmiana ER2 trzecia zmiana
+test
+>>>>>>> 4611ece2333e82557ba94149e53435e0c851598e
