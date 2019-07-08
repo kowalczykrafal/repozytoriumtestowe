@@ -2,3 +2,4 @@ Czysty 1
 Test TEST-1 TEST-1
 Czysty 2
 Czysty 3
+Dodatkowa linia TEST-1
