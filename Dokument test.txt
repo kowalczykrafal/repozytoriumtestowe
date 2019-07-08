@@ -3,3 +3,4 @@ Test TEST-1 TEST-1
 Test origin
 Czysty 2
 Czysty 3
+Nowa linia origin
